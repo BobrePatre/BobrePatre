@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Bober </h1>
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="https://github.com/Ge0rg25/Ge0rg25/blob/main/assets/github-snake.svg" alt="df"/>
 </p>
 
 ## About me
