@@ -16,7 +16,7 @@ I'm interested in web development.
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=py,java,kotlin,go,dart,html,css,postgres&perline=9" />
+    <img src="https://skillicons.dev/icons?i=py,java,kotlin,go,dart,postgres&perline=9" />
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=spring,flutter,hibernate,linux,githubactions,docker,kubernetes,git&perline=9" />
     <h3>Software</h3>
