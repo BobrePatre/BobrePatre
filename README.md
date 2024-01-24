@@ -1,5 +1,12 @@
+<h1 align="center"> 👋 Hello! I'm Georgiy </h1>
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
 # 💫 About Me:
-👋 Hello! I'm Georgiy, a 15-year-old web developer with a penchant for problem-solving and a love for technology. I'm not just a programmer; I'm a team player, learner, and hackathon lover 🏆.<br><br>🔭 I’m currently working on several startups, one of which is [@Netrunner](https://t.me/netrunnerz) 🚀.<br><br>👯 I’m looking to collaborate on projects that align with my interests and skills. I'm particularly interested in web development, data engineering, and DevOps.<br><br>🌱 I’m currently learning about coffee brewing techniques to perfect my cup of joe. ☕️<br><br>💬 Ask me about my experience in web development, my journey in startups, or my love for hackathons.<br><br>⚡ Fun fact: I'm a coffee connoisseur and always on the lookout for the perfect cup.
+👋 I'm 15-year-old web developer with a penchant for problem-solving and a love for technology. I'm not just a programmer; I'm a team player, learner, and hackathon lover 🏆.<br><br>🔭 I’m currently working on several startups, one of which is [@Netrunner](https://t.me/netrunnerz) 🚀.<br><br>👯 I’m looking to collaborate on projects that align with my interests and skills. I'm particularly interested in web development, data engineering, and DevOps.<br><br>🌱 I’m currently learning about coffee brewing techniques to perfect my cup of joe. ☕️<br><br>💬 Ask me about my experience in web development, my journey in startups, or my love for hackathons.<br><br>⚡ Fun fact: I'm a coffee connoisseur and always on the lookout for the perfect cup.
 
 
 ## 🌐 Socials:
