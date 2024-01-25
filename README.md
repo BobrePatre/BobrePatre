@@ -5,13 +5,15 @@
 </p>
 
 
-<span align="center">
+<div align="center">
 
 
 # 💫 About Me:
-
 👋 I'm 15-year-old web developer with a penchant for problem-solving and a love for technology. I'm not just a programmer; I'm a team player, learner, and hackathon lover 🏆.<br><br>🔭 I’m currently working on several startups, one of which is [@Netrunner](https://t.me/netrunnerz) 🚀.<br><br>👯 I’m looking to collaborate on projects that align with my interests and skills. I'm particularly interested in web development, data engineering, and DevOps.<br><br>🌱 I’m currently learning about coffee brewing techniques to perfect my cup of joe. ☕️<br><br>💬 Ask me about my experience in web development, my journey in startups, or my love for hackathons.<br><br>⚡ Fun fact: I'm a coffee connoisseur and always on the lookout for the perfect cup.
 
+
+
+ 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QSUHXPRuT7) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Puzzled-Growth-8353) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/go_gich)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/B0brer) 
