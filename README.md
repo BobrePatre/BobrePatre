@@ -17,7 +17,6 @@ I'm a web developer passionate about solving problems and embracing technology. 
 <p align="center">
 <a href="https://discord.gg/QSUHXPRuT7"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
 <a href="https://reddit.com/user/Puzzled-Growth-8353"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"/></a>
-<a href="https://twitch.tv/go_gich"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"/></a>
 <a href="https://t.me/GeorgiyGusew"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="https://vk.com/bobrepatre"><img src="https://img.shields.io/badge/-VK-2CA5E0?style=flat&logo=vk&logoColor=white"/></a>
 </p>
