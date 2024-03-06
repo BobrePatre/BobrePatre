@@ -16,7 +16,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QSUHXPRuT7) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Puzzled-Growth-8353) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/go_gich)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/GeorgiyGusew) 
-[![VK](https://img.shields.io/badge/-VK-2CA5E0?style=flat&logo=vk&logoColor=white)](https://vk.com/b0br1n1us)
+[![VK](https://img.shields.io/badge/-VK-2CA5E0?style=flat&logo=vk&logoColor=white)](https://vk.com/bobrepatre)
 
 
 --------
