@@ -9,7 +9,7 @@
 <h2 align="center">💫 About Me</h2>
 
 <p align="center">
-I'm a web developer passionate about solving problems and embracing technology. I thrive in team settings, enjoy learning, and love participating in hackathons. Currently, I'm contributing to several startups, including <a href="https://t.me/netrunnerz">@Netrunner</a>. I'm keen to collaborate on web development, data engineering, and DevOps projects. Exploring coffee brewing techniques to enhance my coffee experience.
+I'm a web developer passionate about solving problems and embracing technology. I thrive in team settings, enjoy learning, and love participating in hackathons. Currently, I'm contributing to several startups. I'm keen to collaborate on web development, data engineering, and DevOps projects. Exploring coffee brewing techniques to enhance my coffee experience.
 </p>
 
 <h2 align="center">🌐 Connect with Me</h2>
